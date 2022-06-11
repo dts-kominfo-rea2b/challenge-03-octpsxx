@@ -30,7 +30,6 @@ const listBelanjaan = (dataBelanjaan) => {
     return item;
 };
 
-
 // boleh dimodifikasi bila ingin menggunakan deklarasi fungsi yang normal
 const totalBelanjaan = (dataBelanjaan)=>{
   let total = 0;
